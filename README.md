@@ -60,7 +60,6 @@ I'm a **Computer Science** student at UC Riverside, actively shaping the future 
 ## 🏆 Key Projects
 
 ### **PHiLIP: Personalized Human in Loop Image Production**
-![PHiLIP Demo](https://www.hackster.io/engineers-ucr/philip-personalized-human-in-loop-image-production-b90133) <!-- Add a GIF demo of your project here -->
 - **Role**: Lead Developer | **Tools**: Python, PyTorch, Generative AI
 - **Highlights**: 
   - Developed for the AMD Pervasive AI Developer Contest, winning the University Category.
@@ -69,7 +68,6 @@ I'm a **Computer Science** student at UC Riverside, actively shaping the future 
   - Leveraged AMD GPUs for high-quality, optimized outputs with iterative feedback.
 
 ### **News Genie: AI-Powered News Aggregator**
-![News Genie Demo](https://github.com/MrFrooty/News-Genie) <!-- Add a GIF demo of your project here -->
 - **Role**: Full-Stack Developer | **Tools**: React, Next.js, Flask, Firebase
 - **Highlights**:
   - Built an AI-driven news platform featuring personalized recommendations via Gemini AI.
