@@ -59,11 +59,6 @@ I'm a **Computer Science** student at UC Riverside, actively shaping the future 
 
 ## 🏆 Key Projects
 
-<svg width="100%" height="60">
-  <text x="0" y="45" font-size="35" fill="blue" style="font-family: Arial, sans-serif;">Project Highlights</text>
-  <animate attributeName="x" from="0" to="200" dur="2s" repeatCount="indefinite"/>
-</svg>
-
 ### **PHiLIP: Personalized Human in Loop Image Production**
 ![PHiLIP Demo](https://www.hackster.io/engineers-ucr/philip-personalized-human-in-loop-image-production-b90133) <!-- Add a GIF demo of your project here -->
 - **Role**: Lead Developer | **Tools**: Python, PyTorch, Generative AI
