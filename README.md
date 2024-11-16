@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Michael Chen!
 
-### 🌐 Full-Stack Developer & AI Innovator | 🧠 AMD Pervasive AI Competition Winner | 🚀 Passionate About Real-Time Solutions
+### 🌐 Full-Stack Developer & AI Innovator | 🧠 AMD Pervasive AI Competition Winner
 
 ---
 
@@ -9,7 +9,6 @@ I'm a **Computer Science** student at UC Riverside, actively shaping the future 
 
 - **🏆 Achievement**: Winner of the AMD Pervasive AI Competition
 - **🌱 Currently Working On**: Fine-tuning YOLO models, real-time data visualization, and AI-powered automation
-- **🔧 Tech Skills**: Python, PyTorch, React, Flask, WPF, MongoDB, SQL
 
 ---
 
