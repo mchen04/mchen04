@@ -57,37 +57,6 @@ I'm a **Computer Science** student at UC Riverside, actively shaping the future 
 
 ---
 
-## 🏆 Key Projects
-
-### **PHiLIP: Personalized Human in Loop Image Production**
-- **Role**: Lead Developer | **Tools**: Python, PyTorch, Generative AI
-- **Highlights**: 
-  - Developed for the AMD Pervasive AI Developer Contest, winning the University Category.
-  - Showcased a live demo of AMD MI210’s capabilities at the AMD Advancing AI Event.
-  - Integrated PixArt models for style variation and ControlNet for realism in real-time text-to-image generation.
-  - Leveraged AMD GPUs for high-quality, optimized outputs with iterative feedback.
-
-### **News Genie: AI-Powered News Aggregator**
-- **Role**: Full-Stack Developer | **Tools**: React, Next.js, Flask, Firebase
-- **Highlights**:
-  - Built an AI-driven news platform featuring personalized recommendations via Gemini AI.
-  - Implemented real-time news analysis, user authentication, and a sleek interface with Tailwind CSS.
-  - Designed with Framer Motion animations and Axios for API requests, creating a seamless user experience.
-
----
-
-## 💻 Professional Experience
-- **MOBIVOLT LLC** | *Software Engineer (Intern → Part-Time)*
-  - Developed WPF desktop applications for real-time control and monitoring on fuel processors and gas chromatographs.
-  - Boosted operational efficiency by 65% and improved measurement accuracy with advanced data processing algorithms.
-  - Incorporated safety features like checksums for data integrity and reliable communication.
-
-- **AI at UCR** | *Founder & President*
-  - Established the university’s first AI club, growing to 50+ members with events that surged engagement by 45%.
-  - Collaborated with industry experts, led workshops, and crafted a comprehensive 9-topic AI curriculum for students.
-
----
-
 ## 📊 GitHub Stats
 ![Michael’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mchen04&show_icons=true&theme=radical)
 
