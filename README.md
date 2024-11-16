@@ -66,6 +66,3 @@ I'm a **Computer Science** student at UC Riverside, actively shaping the future 
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/michael-luo-chen)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/mchen04)
-
-🚀 *Dedicated to building impactful AI solutions and inspiring others in the field.*
