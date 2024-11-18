@@ -10,7 +10,7 @@ I'm a **Computer Science** student at UC Riverside, actively shaping the future 
 - **🏆 Achievement**: Winner of the AMD Pervasive AI Competition
 - **🌱 Currently Working On**: Fine-tuning YOLO models, real-time data visualization, and AI-powered automation
 
-🌐 Check out my portfolio: https://mchen04.github.io/
+🌐 [Check out my portfolio](https://mchen04.github.io/)
 
 ---
 
