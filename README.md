@@ -46,15 +46,3 @@ I'm a **Computer Science** student at UC Riverside, actively shaping the future 
 ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-007EC6?style=flat)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6F00?style=flat)
 ![Data Processing](https://img.shields.io/badge/-Data%20Processing-4CAF50?style=flat)
-
----
-
-## 📊 GitHub Stats
-![Michael’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mchen04&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchen04&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/michael-luo-chen)
