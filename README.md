@@ -7,11 +7,6 @@ I'm a **Computer Science** student at UC Riverside, actively shaping the future 
 
 ## 🛠️ Tech Stack
 
-<svg width="100%" height="60">
-  <text x="0" y="45" font-size="35" fill="indigo" style="font-family: Arial, sans-serif;">Languages and Technologies</text>
-  <animate attributeName="x" from="0" to="200" dur="2s" repeatCount="indefinite"/>
-</svg>
-
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
