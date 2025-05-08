@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Michael Chen!
 
-### 🌐 Full-Stack Developer & AI Enthusiast | 🧠 AMD Pervasive AI Competition Winner
-
 ## 🔥 About Me
 I'm a **Computer Science** student at UC Riverside, actively shaping the future of AI through projects and leadership. Founder of AI@UCR, where I empower students to dive into machine learning and artificial intelligence. My work spans from building real-time applications with WPF and C# to creating personalized AI experiences.
 
