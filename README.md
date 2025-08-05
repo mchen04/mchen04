@@ -37,12 +37,6 @@ Building AI-driven solutions and scalable systems. Award-winning developer with 
 **Databases:** PostgreSQL, MongoDB, Firebase, Supabase  
 **Tools:** Docker, Git, Linux, CI/CD, Arduino
 
-## Currently Working On
-
-- Expanding Grantify.ai with advanced ML-based grant matching algorithms
-- Building open-source AI tools for the UCR community
-- Contributing to AI education initiatives
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-luo-chen/)
