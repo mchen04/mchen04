@@ -12,22 +12,6 @@ Building AI-driven solutions and scalable systems. Award-winning developer with 
 - Built with PixArt-alpha models, optimized for AMD Instinct MI210 GPUs
 - Live demo presented at AMD Advancing AI Event 2024, San Francisco
 
-### Grantify.ai: AI Grant Search & Recommendation Engine
-- Intelligent platform matching researchers to 3000+ grants from 13+ government APIs
-- Enterprise-grade security with JWT, OAuth2, and CSRF protection
-- Automated data pipeline processing 1000+ daily grant updates with hybrid caching
-
-## Experience Highlights
-
-**Software Engineering Intern @ MOBIVOLT** (18+ months)
-- Architected 5+ automated test stands processing 100+ concurrent data streams with zero downtime
-- Developed high-performance data pipelines achieving 300% acceleration in research iterations
-- Built Arduino firmware with 100+ Hz sampling and sub-millisecond latency
-
-**Founder & President @ AI at UCR**
-- Scaled UCR's first AI organization from 0 to 50+ active members
-- Led 10+ technical workshops on AI/ML trends and emerging technologies
-
 ## Technical Skills
 
 **Languages:** Python, JavaScript/TypeScript, C/C++/C#, Java, SQL  
