@@ -17,7 +17,7 @@
 ### About Me
 
 - **Currently working on:** Building autonomous coding agents (Zerg & ZTC) at **Epoch** and scaling **Check**, a 7-paradigm LLM Hallucination Detection API.
-- **Actively exploring:** AI-native tools, retrieval-augmented generation (RAG), and human-in-the-loop generative pipelines.
+- **Actively exploring:** Autonomous AI and Hallucination Detection.
 - **Education:** B.S. in Computer Science (Minor in Entrepreneurship) at the University of California, Riverside (Expected 2026).
 - **Awards:** AMD Pervasive AI Competition (University Program Award) & Cutie Hack (Sustainability Award).
 
@@ -45,11 +45,3 @@ AI-powered image generation platform achieving 2-second inference with 71 style 
 - **Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, CI/CD
 - **Databases:** PostgreSQL, Supabase, MongoDB, Redis
 
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mchen04&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchen04&layout=compact&theme=radium&hide_border=true" width="48%" />
-</div>
