@@ -16,8 +16,8 @@
 
 ### About Me
 
-- **Currently working on:** Building autonomous coding agents (Zerg & ZTC) at **Epoch** and scaling **Check**, a 7-paradigm LLM Hallucination Detection API.
-- **Actively exploring:** Autonomous AI and Hallucination Detection.
+- **Currently working on:** Building autonomous coding agents (Zerg & ZTC) at **Epoch**
+- **Actively exploring:** Autonomous AI and Local AI.
 - **Education:** B.S. in Computer Science (Minor in Entrepreneurship) at the University of California, Riverside (Expected 2026).
 - **Awards:** AMD Pervasive AI Competition (University Program Award) & Cutie Hack (Sustainability Award).
 
