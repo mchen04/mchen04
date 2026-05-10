@@ -6,9 +6,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelluochen1@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mchen04.github.io/)
 
-**AI Software Engineer | Founder @ AI at UCR | CS @ UC Riverside**
+**AI Software Engineer @ Epoch · CS @ UC Riverside · AMD Pervasive AI Award Winner**
 
-*Award-winning developer specializing in AI/ML, autonomous agents, full-stack development, and embedded systems.*
+*Building autonomous coding agents, AI evaluation harnesses, and multi-agent simulations.*
 
 </div>
 
@@ -16,32 +16,37 @@
 
 ### About Me
 
-- **Currently working on:** Building autonomous coding agents (Zerg & ZTC) at **Epoch**
-- **Actively exploring:** Autonomous AI and Local AI.
-- **Education:** B.S. in Computer Science (Minor in Entrepreneurship) at the University of California, Riverside (Expected 2026).
-- **Awards:** AMD Pervasive AI Competition (University Program Award) & Cutie Hack (Sustainability Award).
+**Now —** AI SWE Engineer at **Epoch**, working on:
+- **Zerg** — an autonomous coding-agent framework that dynamically generates and maintains codebases.
+- **ZTC (Zerg Terminal Client)** — an agentic terminal that drives Zerg from manifests, with parallel tool execution and isolated batch runs.
+- **Continual-validation harnesses** — eval infrastructure for AI systems that catches behavior regressions on every PR.
+- **Multi-agent simulations** and SWE-bench-style **evaluation infrastructure** on the side.
+
+**Recently —** Founder of **AI@UCR** (0 → 50+ members in 6 months, 10+ technical workshops); SWE Intern at **Mobivolt** (10+ automated test systems, 250+ sensors, 5,000+ test hours for a $5M+ DOD-funded fuel cell program).
+
+**Education —** B.S. Computer Science, Minor in Entrepreneurship & Strategy, **UC Riverside** (expected June 2026 · GPA 3.7 · Dean's Honor List).
+
+**Awards —** AMD Pervasive AI Competition — University Program Award (2024); Cutie Hack — Sustainability Award (2022).
 
 ---
 
 ### Featured Projects
 
-#### [Check: LLM Hallucination Detection API](https://check-tau-taupe.vercel.app/)
-Architected a 7-paradigm verification engine supporting 7 LLM providers (OpenAI, Anthropic, Google, etc.). Features FPR-weighted consensus voting and cross-paradigm confidence calibration.
-> **Tech:** Next.js 15, TypeScript, Supabase, Stripe, mathjs
+#### [Check — LLM Hallucination Detection API](https://check-tau-taupe.vercel.app/)
+7-paradigm verification engine with FPR-weighted consensus voting and BiPRM × Formal cross-paradigm confidence calibration. BYOK across 7 LLM providers (OpenAI, Anthropic, Google, Mistral, Azure, Bedrock, OpenRouter), parallel method execution via `Promise.all()`, and streaming real-time updates.
+> **Stack:** Next.js 15 · TypeScript · Supabase · Stripe · mathjs
 
-#### [PHiLIP: Personalized Human in Loop Image Production](https://www.hackster.io/engineers-ucr/philip-personalized-human-in-loop-image-production-b90133)
-**AMD University Program Award Winner**
-AI-powered image generation platform achieving 2-second inference with 71 style presets and iterative refinement. Showcased at the AMD Advancing AI Event 2024.
-> **Tech:** PyTorch, HuggingFace, PixArt-alpha, AMD ROCm
+#### [PHiLIP — Personalized Human-in-Loop Image Production](https://github.com/mchen04/PHiLIP)
+🏆 **AMD University Program Award ($2,500, 8,200+ entrants)** — live demo at AMD Advancing AI 2024, San Francisco. 2-second inference, 71 style presets, Stable Diffusion upscaling, iterative refinement loop on fine-tuned PixArt-α.
+> **Stack:** PyTorch · HuggingFace · PixArt-α · AMD ROCm
 
 ---
 
 ### Technical Arsenal
 
-- **AI & Machine Learning:** PyTorch, TensorFlow, LLMs, LangChain, RAG, NLP, Vector Embeddings (Pinecone, pgvector)
-- **Languages:** Python, TypeScript/JavaScript, Java, C/C++, C#
-- **Backend:** Node.js, Express.js, Flask, FastAPI, REST/GraphQL
-- **Frontend:** React.js, Next.js 15, Tailwind CSS, SSR
-- **Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, CI/CD
-- **Databases:** PostgreSQL, Supabase, MongoDB, Redis
-
+- **AI / ML:** LLMs · AI agents · RAG · LangChain · LangGraph · Model Context Protocol (MCP) · PyTorch · TensorFlow · Scikit-Learn · HuggingFace · Vector embeddings (Pinecone, pgvector)
+- **Languages:** Python · TypeScript · JavaScript · C++ · C · Java · C#
+- **Backend:** Node.js · Express · FastAPI · Django · Flask · REST · GraphQL · WebSockets · Socket.IO
+- **Frontend:** React · Next.js 15 · Tailwind CSS · shadcn/ui · SSR
+- **Databases:** PostgreSQL · Pinecone · pgvector · Supabase · MongoDB · Redis
+- **Cloud / DevOps:** Docker · Kubernetes · AWS · GCP · Azure · Vercel · Modal · Fly.io · CI/CD
