@@ -1,6 +1,6 @@
 # Michael Chen
 
-AI software engineer at Epoch, building autonomous coding-agent platforms, LLM harnesses, and multi-agent simulation infrastructure.  UC Riverside CS Graduate (June 2026), minor in Entrepreneurship & Strategy.
+AI software engineer at Epoch, building autonomous coding-agent platforms, LLM evaluation harnesses, and multi-agent simulation infrastructure. CS graduate, UC Riverside (June 2026), with a minor in Entrepreneurship & Strategy.
 
 ## Work
 
