@@ -15,4 +15,4 @@ AI software engineer at Epoch/ZergAI. CS graduate, UC Riverside (June 2026), wit
 
 ## Links
 
-[Portfolio](https://mchen04.github.io) · [LinkedIn](https://www.linkedin.com/in/michael-luo-chen/) · [HuggingFace]([https://huggingface.co/mchen04])
+[Portfolio](https://mchen04.github.io) · [LinkedIn](https://www.linkedin.com/in/michael-luo-chen/) · [HuggingFace](https://huggingface.co/mchen04)
