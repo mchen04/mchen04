@@ -1,13 +1,6 @@
 # Michael Chen
 
-AI software engineer at Epoch. CS graduate, UC Riverside (June 2026), with a minor in Entrepreneurship & Strategy.
-
-## Work
-
-- **Zerg / ZTC** — autonomous coding-agent platform and agentic terminal: parallel tool dispatch, background sub-agents, worktree-isolated batch execution, sandboxed multi-agent workflow runtime, MCP/provider routing, live web-mirror observability.
-- **Forward-deployed engineering** — embedded AI platforms for enterprise customers: an org-management, procurement, and resource-planning platform with continual-validation harnesses (deterministic state, tool, artifact, browser, and visual oracles) for an aerospace manufacturer, and an AI procurement intake and approval portal with grounded vendor research, human-owned approvals, and RBAC/separation-of-duties controls for a publicly traded enterprise software company.
-- **MOBIVOLT** — hardware-in-the-loop simulators, automated test systems, firmware migration (PIC32MZ to Harmony v3), and AI-assisted test and build automation for a $5M+ DOD-funded fuel-cell program: 250+ sensors, 5,000+ hours of testing.
-- **PHiLIP** — [AMD University Program Award](https://www.hackster.io/contests/amd2023#category-1092)-winning image-generation prototype on AMD ROCm and PixArt-alpha. [Project writeup](https://www.hackster.io/engineers-ucr/philip-personalized-human-in-loop-image-production-b90133). The [repository README](https://github.com/mchen04/PHiLIP#readme) documents current operating limits.
+AI software engineer at Epoch/ZergAI. CS graduate, UC Riverside (June 2026), with a minor in Entrepreneurship & Strategy.
 
 ## Selected public projects
 
